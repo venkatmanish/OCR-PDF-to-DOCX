@@ -1,0 +1,16 @@
+[
+    {
+        "paragraph": "This is sample text",
+        "type": "paragraph"
+    },
+    {
+        "paragraph": "1. First List Item",
+        "type": "numbered_list",
+        "prefix": "1."
+    },
+    {
+        "paragraph": "2. Second List Item",
+        "type": "numbered_list",
+        "prefix": "2."
+    }
+]
